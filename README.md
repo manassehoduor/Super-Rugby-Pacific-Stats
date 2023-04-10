@@ -55,3 +55,19 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 ![super_rugby_2023_F_S_tries_R6](https://user-images.githubusercontent.com/20558188/229702990-4daa6854-d96d-4eb2-b12b-8cc238e4823c.png)
 
 </details>
+
+## **Round 7**
+
+<details><summary>Standings</summary>
+
+![super_rugby_standings_2023_R7](https://user-images.githubusercontent.com/20558188/230919587-c8381e23-d09f-4e0e-9923-6f33f6b8e226.png)
+
+</details>
+
+<details><summary>Rankings</summary>
+
+![super_rugby_rankings_2023_R7](https://user-images.githubusercontent.com/20558188/230919635-ed038041-0fd8-48ee-96ea-e6f598662930.png)
+
+</details>
+
+
