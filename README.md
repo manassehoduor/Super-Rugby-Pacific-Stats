@@ -24,7 +24,7 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 </details>
 
 
-## **Round 6**
+## [**Round 6**](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R6)
 
 <details><summary>Standings</summary>
 
