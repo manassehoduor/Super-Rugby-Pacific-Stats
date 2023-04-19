@@ -96,5 +96,6 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ### Rankings
 
-![super_rugby_rankings_2023_R8](https://user-images.githubusercontent.com/20558188/233047510-4d84d7f0-0c3d-4a85-a2af-3a8927fc0c9b.png)
+![super_rugby_rankings_2023_R8](https://user-images.githubusercontent.com/20558188/233066809-ed8faa7b-4058-4aef-931c-420d315a9c3a.png)
+
 
