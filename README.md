@@ -87,3 +87,14 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 ![super_rugby_2023_F_S_tries_R7](https://user-images.githubusercontent.com/20558188/231973885-e0331ac9-fe96-4725-91a6-268496f23278.png)
 
 </details>
+
+## [**Round 8**](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R8)
+
+### Standings
+
+![super_rugby_standings_2023_R8](https://user-images.githubusercontent.com/20558188/233047265-616ec7e1-9a2a-4113-8d0d-0e46d25a9452.png)
+
+### Rankings
+
+![super_rugby_rankings_2023_R8](https://user-images.githubusercontent.com/20558188/233047510-4d84d7f0-0c3d-4a85-a2af-3a8927fc0c9b.png)
+
