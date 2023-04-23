@@ -90,23 +90,38 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ## [**Round 8**](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R8)
 
-### Standings
+<details><summary> Standings </summary>
 
 ![super_rugby_standings_2023_R8](https://user-images.githubusercontent.com/20558188/233047265-616ec7e1-9a2a-4113-8d0d-0e46d25a9452.png)
 
-### Rankings
+</details>
+
+<details><summary> Rankings </summary>
 
 ![super_rugby_rankings_2023_R8](https://user-images.githubusercontent.com/20558188/233066809-ed8faa7b-4058-4aef-931c-420d315a9c3a.png)
 
-### Top-Try Scorers
+</details>
+
+<details><summary> Top-Try Scorers </summary>
 
 ![super_rugby_2023_top_tries_scorers_R8](https://user-images.githubusercontent.com/20558188/233836868-b323a42a-dbab-467c-a100-a00a37372db0.png)
 
-### Backs/Fowards Tries
+</details>
+
+<details><summary> Backs/Fowards Tries </summary>
 
 ![super_rugby_2023_B_F_tries_R8](https://user-images.githubusercontent.com/20558188/233836890-697b8023-e966-4914-adda-f19dd4d6e4d3.png)
 
-### First-Half/Second-Half Tries
+</details>
+
+<details><summary> First-Half/Second-Half Tries </summary>
 
 ![super_rugby_2023_F_S_tries_R8](https://user-images.githubusercontent.com/20558188/233836878-7fd7d309-fd24-451c-b58b-8252f1f757f4.png)
 
+</details>
+
+## [**Round 9**](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R9)
+
+### Standings
+
+![super_rugby_standings_2023_R9](https://user-images.githubusercontent.com/20558188/233844836-a5308398-ce2c-4e44-8afb-da9e4c5004a4.png)
