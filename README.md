@@ -146,5 +146,3 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 </details>
 
-
-
