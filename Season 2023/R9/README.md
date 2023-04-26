@@ -2,7 +2,7 @@
 
 ![super_rugby_standings_2023_R9](https://user-images.githubusercontent.com/20558188/233844135-3b0df100-aad2-4c98-bc3f-9af0d783ff45.png)
 
-![super_rugby_2023_top_tries_scorers_R9_lineout_scrums](https://user-images.githubusercontent.com/20558188/234477828-d4aee7bd-c0aa-4bea-9f37-0eb2df7c1927.png)
+![super_rugby_2023_lineout_scrums_R9](https://user-images.githubusercontent.com/20558188/234481195-8fa4723a-1a8d-4a29-8729-c4b866bc3ad8.png)
 
 ![super_rugby_2023_top_tries_scorers_R9](https://user-images.githubusercontent.com/20558188/234479803-af698dc0-4c0a-4ccc-83d8-17597b32350f.png)
 
