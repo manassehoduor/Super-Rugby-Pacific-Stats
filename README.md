@@ -125,3 +125,27 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 ### Standings
 
 ![super_rugby_standings_2023_R9](https://user-images.githubusercontent.com/20558188/233844836-a5308398-ce2c-4e44-8afb-da9e4c5004a4.png)
+
+## Scrums/Line-Outs Won
+
+![super_rugby_2023_top_tries_scorers_R9_lineout_scrums](https://user-images.githubusercontent.com/20558188/234478137-326e9865-47fb-428c-8af5-85a40d8307ab.png)
+
+## Rankings
+
+![super_rugby_rankings_2023_R9](https://user-images.githubusercontent.com/20558188/234478279-50879590-fcba-49be-9d6f-6b08a2df9736.png)
+
+## Top-Try Scorers
+
+![super_rugby_2023_top_tries_scorers_R9](https://user-images.githubusercontent.com/20558188/234478385-e5669813-affb-446a-9fa1-088405d4692c.png)
+
+## Backs/Fowards Tries
+
+![super_rugby_2023_B_F_tries_R9](https://user-images.githubusercontent.com/20558188/234478463-68919039-9417-4489-8294-daa0fd8586f2.png)
+
+##  First-Half/Second-Half Tries
+
+![super_rugby_2023_F_S_tries_R9](https://user-images.githubusercontent.com/20558188/234478536-4c2ce8ea-7b75-4237-a2ad-5e49afcb6949.png)
+
+
+
+
