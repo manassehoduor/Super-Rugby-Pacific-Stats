@@ -11,7 +11,7 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ## Scrums/Line-Outs Won
 
-![super_rugby_2023_top_tries_scorers_R9_lineout_scrums](https://user-images.githubusercontent.com/20558188/234478137-326e9865-47fb-428c-8af5-85a40d8307ab.png)
+![super_rugby_2023_lineout_scrums_R9](https://user-images.githubusercontent.com/20558188/234481541-0998b788-537d-4842-ab94-5992480fc2c6.png)
 
 ## Rankings
 
