@@ -19,6 +19,8 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ## Top-Try Scorers
 
+![super_rugby_2023_top_tries_scorers_R9_svg](https://user-images.githubusercontent.com/20558188/234662256-bbaf8325-21fc-49a9-a526-5d206b99e778.png)
+
 ![super_rugby_2023_top_tries_scorers_R9](https://user-images.githubusercontent.com/20558188/234478385-e5669813-affb-446a-9fa1-088405d4692c.png)
 
 ## Backs/Fowards Tries
