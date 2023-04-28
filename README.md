@@ -24,11 +24,11 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 ![super_rugby_2023_top_tries_scorers_R9](https://user-images.githubusercontent.com/20558188/234478385-e5669813-affb-446a-9fa1-088405d4692c.png)
 
 ## Backs/Fowards Tries
-![super_rugby_pacific_team_tries_R9_waffle2](https://user-images.githubusercontent.com/20558188/235270171-11cfa3d2-daa4-489d-8d7c-ede3665aeb47.png)
+![super_rugby_2023_B_F_tries_R9](https://user-images.githubusercontent.com/20558188/234478463-68919039-9417-4489-8294-daa0fd8586f2.png)
 ![super_rugby_pacific_team_tries_R9_waffle1](https://user-images.githubusercontent.com/20558188/235270175-e7e0763f-7106-40cd-8b99-dd2cf00a5e2d.png)
 
 ##  First-Half/Second-Half Tries
-![super_rugby_2023_B_F_tries_R9](https://user-images.githubusercontent.com/20558188/234478463-68919039-9417-4489-8294-daa0fd8586f2.png)
+![super_rugby_pacific_team_tries_R9_waffle2](https://user-images.githubusercontent.com/20558188/235270171-11cfa3d2-daa4-489d-8d7c-ede3665aeb47.png)
 ![super_rugby_2023_F_S_tries_R9](https://user-images.githubusercontent.com/20558188/234478536-4c2ce8ea-7b75-4237-a2ad-5e49afcb6949.png)
 
 </details>
