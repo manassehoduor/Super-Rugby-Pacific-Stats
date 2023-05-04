@@ -15,29 +15,41 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ## [**Round 9**](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R9)
 
-### Standings
+<details><summary> Standings </summary>
 
 ![super_rugby_standings_2023_R9](https://user-images.githubusercontent.com/20558188/233844836-a5308398-ce2c-4e44-8afb-da9e4c5004a4.png)
 
-## Scrums/Line-Outs Won
+</details>
+
+<details><summary> Scrums/Line-Outs Won </summary>
 
 ![super_rugby_2023_lineout_scrums_R9](https://user-images.githubusercontent.com/20558188/234481541-0998b788-537d-4842-ab94-5992480fc2c6.png)
 
-## Rankings
+</details>
+
+<details><summary> Rankings </summary>
 
 ![super_rugby_rankings_2023_R9](https://user-images.githubusercontent.com/20558188/234478279-50879590-fcba-49be-9d6f-6b08a2df9736.png)
 
-## Top-Try Scorers
+</details>
+
+<details><summary> Top-Try Scorers </summary>
 
 ![super_rugby_2023_top_tries_scorers_R9_svg](https://user-images.githubusercontent.com/20558188/234662256-bbaf8325-21fc-49a9-a526-5d206b99e778.png)
 
 ![super_rugby_2023_top_tries_scorers_R9](https://user-images.githubusercontent.com/20558188/234478385-e5669813-affb-446a-9fa1-088405d4692c.png)
 
-## Backs/Fowards Tries
+</details>
+
+<details><summary> Backs/Fowards Tries </summary>
+
 ![super_rugby_2023_B_F_tries_R9](https://user-images.githubusercontent.com/20558188/234478463-68919039-9417-4489-8294-daa0fd8586f2.png)
 ![super_rugby_pacific_team_tries_R9_waffle1](https://user-images.githubusercontent.com/20558188/235270175-e7e0763f-7106-40cd-8b99-dd2cf00a5e2d.png)
 
-##  First-Half/Second-Half Tries
+</details>
+
+<details><summary> First-Half/Second-Half Tries </summary>
+
 ![super_rugby_pacific_team_tries_R9_waffle2](https://user-images.githubusercontent.com/20558188/235270171-11cfa3d2-daa4-489d-8d7c-ede3665aeb47.png)
 ![super_rugby_2023_F_S_tries_R9](https://user-images.githubusercontent.com/20558188/234478536-4c2ce8ea-7b75-4237-a2ad-5e49afcb6949.png)
 
