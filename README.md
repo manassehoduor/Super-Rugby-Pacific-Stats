@@ -3,6 +3,16 @@ This repository contains the visualizations and statistics for the Super Rugby P
 
 Collapse the sections below to view Super Rugby Stats Visualizations after:
 
+## Round 10
+
+### Cum. Scrums Success Rate
+
+![super_rugby_2023_scrums_cum_change_R10](https://user-images.githubusercontent.com/20558188/236134856-be1b49ec-7d59-40e9-a6c2-fd1584c0d44e.png)
+
+### Cum. Line-Outs Success Rate
+
+![super_rugby_2023_lineouts_cum_change_R10](https://user-images.githubusercontent.com/20558188/236134838-c97fe874-7127-4853-9e0a-dc16c1233cc4.png)
+
 ## [**Round 9**](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R9)
 
 ### Standings
