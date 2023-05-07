@@ -11,7 +11,7 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ### Top-Try Scorers
 
-![super_rugby_2023_top_tries_scorers_R10_svg](https://user-images.githubusercontent.com/20558188/236700787-0a4f18e5-9c0a-4eb2-8683-f9add424527a.png
+![super_rugby_2023_top_tries_scorers_R10_svg](https://user-images.githubusercontent.com/20558188/236700787-0a4f18e5-9c0a-4eb2-8683-f9add424527a.png)
 
 ![super_rugby_2023_top_tries_scorers_team_R10](https://user-images.githubusercontent.com/20558188/236700800-04e8de4e-fea7-473f-90d6-929f6a961888.png)
 
