@@ -5,6 +5,20 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ## [Round 10](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R_10)
 
+### Standings
+
+![super_rugby_standings_2023_R10](https://user-images.githubusercontent.com/20558188/236700887-89a1fb74-0202-4238-aa34-03b44ee9fdfa.png)
+
+### Top-Try Scorers
+
+![super_rugby_2023_top_tries_scorers_R10_svg](https://user-images.githubusercontent.com/20558188/236700787-0a4f18e5-9c0a-4eb2-8683-f9add424527a.png
+
+![super_rugby_2023_top_tries_scorers_team_R10](https://user-images.githubusercontent.com/20558188/236700800-04e8de4e-fea7-473f-90d6-929f6a961888.png)
+
+### Rankings
+
+![super_rugby_rankings_2023_R10](https://user-images.githubusercontent.com/20558188/236700836-cb12b0fc-68c8-4c91-9ad1-f1f4dd67749e.png)
+
 ### Cum. Line-Outs and Scrums Success Rate
 
 ![super_rugby_2023_lineout_scrums_R10](https://user-images.githubusercontent.com/20558188/236187258-0475497c-08d0-43e8-8dae-afcd4ff7adc6.png)
