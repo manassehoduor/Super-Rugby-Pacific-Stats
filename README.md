@@ -47,7 +47,7 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 </details>
 
-<details><summary>Rate of Change in Cum. Line-Outs Success Rate 
+<details><summary>Rate of Change in Cum. Line-Outs Success Rate</summary>
 
 ![super_rugby_2023_lineouts_cum_change_R10](https://user-images.githubusercontent.com/20558188/236134838-c97fe874-7127-4853-9e0a-dc16c1233cc4.png)
 
