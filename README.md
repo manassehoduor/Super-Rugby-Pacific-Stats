@@ -3,7 +3,7 @@ This repository contains the visualizations and statistics for the Super Rugby P
 
 Collapse the sections below to view Super Rugby Stats Visualizations after:
 
-## [Round 11]
+## Round 11
 
 ### Standings
 
