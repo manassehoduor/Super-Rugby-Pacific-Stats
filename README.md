@@ -15,6 +15,12 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ![super_rugby_rankings_2023_clash_R12](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/26a2ac5d-1402-4ca8-96d7-cf6a453ed56d)
 
+### Top-Try Scorers
+
+![super_rugby_2023_top_tries_scorers_team_R13](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/ff3f89cf-311c-4bf3-b862-9ac7efa9914a)
+
+![super_rugby_2023_top_tries_scorers_R13_svg](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/96cdec9e-7ef9-4b5c-943b-e20166c29287)
+
 ## [**Round 11**](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R_11)
 
 <details><summary>Standings</summary>
