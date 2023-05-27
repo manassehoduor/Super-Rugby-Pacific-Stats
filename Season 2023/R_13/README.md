@@ -6,3 +6,7 @@
 ![super_rugby_2023_top_tries_scorers_R13_svg](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/e1c13328-c531-4192-9eeb-09637bf5a160)
 
 ![super_rugby_2023_top_tries_scorers_team_R13](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/e8d6e329-8571-4cde-bfd2-5d559329d122)
+
+![super_rugby_pacific_team_tries_R13_dumbell2](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/24db215f-3789-4521-a5a9-56a4806c1443)
+
+![super_rugby_pacific_team_tries_R13_dumbell](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/5c23ca28-83cc-44c4-adc8-972ea27c1b59)
