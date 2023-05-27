@@ -10,9 +10,10 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 ![super_rugby_rankings_2023_R13](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/2ba31a17-da67-4aab-bcb2-48dc4efe068c)
 
 ### Tries Margin
-![super_rugby_pacific_team_tries_R13_dumbell2](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/968c67d7-86f1-45a2-8889-e4997700e61d)
 
 ![super_rugby_pacific_team_tries_R13_dumbell](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/69704b87-8603-4195-ae83-8f3329b379c6)
+
+![super_rugby_pacific_team_tries_R13_dumbell2](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/968c67d7-86f1-45a2-8889-e4997700e61d)
 
 ### Standings
 
