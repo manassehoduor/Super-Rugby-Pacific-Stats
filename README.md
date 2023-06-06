@@ -9,6 +9,8 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ![QF1](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/069a28c8-07d6-4e2c-accd-e451c5f79372)
 
+![QF2](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/dc2d2e0d-5764-4e21-bba7-4411919f7b29)
+
 
 ### Standings
 
