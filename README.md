@@ -9,6 +9,16 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ![super_rugby_standings_2023_R15](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/13c6e048-c18e-4ffa-9f47-177e7363888d)
 
+### Rankings
+
+![super_rugby_rankings_2023_R15](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/518c19c6-0c18-46f8-915f-ce60b48104b9)
+
+### Top-Try Scorers
+
+![super_rugby_2023_top_tries_scorers_team_R15](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/dbbc6ca1-ddfe-459b-9fed-25bbaea241d8)
+
+![super_rugby_2023_top_tries_scorers_R15_svg](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/d472192b-dbc5-4202-8816-3a4ffc4eea7d)
+
 
 ## [**Round 14**]
 
