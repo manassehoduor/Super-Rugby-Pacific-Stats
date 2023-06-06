@@ -3,6 +3,16 @@ This repository contains the visualizations and statistics for the Super Rugby P
 
 Collapse the sections below to view Super Rugby Stats Visualizations after:
 
+## [**Round 14**]
+
+### Standings
+
+![super_rugby_standings_2023_R14](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/7726c045-1e6a-4887-9ea4-ba1569eb5eb2)
+
+### Rankings
+
+![super_rugby_rankings_2023_R14](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/5c55332c-bcca-4a81-a245-5d9b71f7a7cd)
+
 ## [**Round 13**](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/tree/main/Season%202023/R_13)
 
 ### Rankings
