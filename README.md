@@ -5,6 +5,11 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ## [**Round 15**]
 
+### Quarter Final Pairings
+
+![QF1](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/069a28c8-07d6-4e2c-accd-e451c5f79372)
+
+
 ### Standings
 
 ![super_rugby_standings_2023_R15](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/13c6e048-c18e-4ffa-9f47-177e7363888d)
