@@ -17,6 +17,11 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ### Blues vs Waratahs
 
+![QF3_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/1d1f0661-00a6-4ab6-b4a0-f606e9f97589)
+
+
+### Brumbies vs Hurricanes
+
 ![QF4_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/4e7649d7-5049-45fa-bdf7-881d9aedeaf6)
 
 
