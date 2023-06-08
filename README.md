@@ -12,18 +12,19 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
     <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/2cfe7edb-0a33-4dc0-a64b-7afb54bc926c" alt="Plot 2" width="400"/>
 </div>
 
-![QF1_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/4f565c2f-f3ea-4502-bf5e-e3efc9160c5f)
-![QF1_HH_def](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/2cfe7edb-0a33-4dc0-a64b-7afb54bc926c)
-
 ### Crusaders vs Fijian Drua
 
-![QF2_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/02e7e787-87dd-4b6d-973f-47b9cc063680)
-![QF2_HH_def](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/088a069e-349e-423a-a948-bf673678fcf2)
+<div>
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/02e7e787-87dd-4b6d-973f-47b9cc063680" alt="Plot 3" width="400"/>
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/088a069e-349e-423a-a948-bf673678fcf2" alt="Plot 4" width="400"/>
+</div>
 
 ### Blues vs Waratahs
 
-![QF3_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/1d1f0661-00a6-4ab6-b4a0-f606e9f97589)
-![QF3_HH_def](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/48978047-1377-4304-b99a-0a82f92f8c1c)
+<div>
+    <img src ="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/1d1f0661-00a6-4ab6-b4a0-f606e9f97589" width="400/>
+    <img src ="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/48978047-1377-4304-b99a-0a82f92f8c1c" width="400/>
+</div> 
 
 ### Brumbies vs Hurricanes
 
