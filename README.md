@@ -9,7 +9,7 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 ![QF1_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/4f565c2f-f3ea-4502-bf5e-e3efc9160c5f)
 ![QF1_HH_def](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/2cfe7edb-0a33-4dc0-a64b-7afb54bc926c)
 
-### 
+### Crusaders vs Fijian Drua
 ![QF2_HH_def](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/088a069e-349e-423a-a948-bf673678fcf2)
 
 
