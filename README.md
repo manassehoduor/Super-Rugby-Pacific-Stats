@@ -23,7 +23,7 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 ### Brumbies vs Hurricanes
 
 ![QF4_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/4e7649d7-5049-45fa-bdf7-881d9aedeaf6)
-
+![QF4_HH_def](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/dc424521-bf4e-4e4d-8926-14a6ac88afbe)
 
 ## [**Round 15**]
 
