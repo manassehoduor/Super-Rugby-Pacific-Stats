@@ -38,6 +38,14 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ### Quarter Final Pairings
 
+<div>
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/069a28c8-07d6-4e2c-accd-e451c5f79372" alt="Plot 9" width="400"/>
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/dc2d2e0d-5764-4e21-bba7-4411919f7b29" alt="Plot 10" width="400"/>
+<img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/09463c1f-1e96-4188-8c25-d96ab7d1bb87" alt="Plot 10" width="400"/>
+<img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/962faea3-74ac-4e71-800f-92b7294890e8" alt="Plot 10" width="400"/>
+
+</div>
+
 ![QF1](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/069a28c8-07d6-4e2c-accd-e451c5f79372)
 
 ![QF2](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/dc2d2e0d-5764-4e21-bba7-4411919f7b29)
