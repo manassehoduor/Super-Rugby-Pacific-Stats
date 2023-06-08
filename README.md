@@ -9,8 +9,9 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 <div>
     <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/4f565c2f-f3ea-4502-bf5e-e3efc9160c5f" alt="Plot 1" width="400"/>
-    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/2cfe7edb-0a33-4dc0-a64b-7afb54bc926c" alt="Plot 2" width="400"/>
+    <img src="(https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/10ad8143-23a8-43fa-8b0b-80aa582991dd" alt="Plot 2" width="400"/>
 </div>
+
 
 ### Crusaders vs Fijian Drua
 
