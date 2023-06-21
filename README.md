@@ -4,8 +4,15 @@ This repository contains the visualizations and statistics for the Super Rugby P
 Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ## [**Comparative Analysis**]
-### QF Pairings Teams Head to Head Clash
-### Chiefs vs Reds
+
+### SF Pairings Teams Head-to-Head Clash
+
+### Chiefs vs. Brumbies
+![SF2_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/1527fbd0-7aa5-436d-a92e-6365282b6151)
+
+
+### QF Pairings Teams Head-to-Head Clash
+### Chiefs vs. Reds
 
 <div>
     <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/4f565c2f-f3ea-4502-bf5e-e3efc9160c5f" alt="Plot 1" width="400"/>
@@ -13,7 +20,7 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 </div>
 
 
-### Crusaders vs Fijian Drua
+### Crusaders vs. Fijian Drua
 
 <div>
     <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/02e7e787-87dd-4b6d-973f-47b9cc063680" alt="Plot 3" width="400"/>
@@ -27,7 +34,7 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
     <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/934b8718-1a95-46c2-a19b-8957709992b0" alt="Plot 6" width="400"/>
 </div>
 
-### Brumbies vs Hurricanes
+### Brumbies vs. Hurricanes
 
 <div>
     <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/4e7649d7-5049-45fa-bdf7-881d9aedeaf6" alt="Plot 7" width="400"/>
