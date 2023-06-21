@@ -15,6 +15,9 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
     alt="Plot 2" width="400"/>
 </div>
 
+### Crusaders vs. Blues
+![SF1_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/595f8541-f906-4b01-848f-5f95a6d851ac)
+
 ### QF Pairings Teams Head-to-Head Clash
 ### Chiefs vs. Reds
 
