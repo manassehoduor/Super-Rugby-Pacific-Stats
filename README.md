@@ -5,11 +5,15 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ## [**Comparative Analysis**]
 
-### SF Pairings Teams Head-to-Head Clash
+### SF Pairings Head-to-Head Clash and Final Outcome
 
 ### Chiefs vs. Brumbies
-![SF2_HH_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/1527fbd0-7aa5-436d-a92e-6365282b6151)
 
+<div>
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/1527fbd0-7aa5-436d-a92e-6365282b6151" alt="Plot 1" width="400"/>
+![SF2_attack](https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/dde98b59-eee2-40a7-afcf-22f8928eb889" 
+    alt="Plot 2" width="400"/>
+</div>
 
 ### QF Pairings Teams Head-to-Head Clash
 ### Chiefs vs. Reds
