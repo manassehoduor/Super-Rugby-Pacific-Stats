@@ -7,6 +7,16 @@ Collapse the sections below to view Super Rugby Stats Visualizations after:
 
 ### SF Pairings Head-to-Head Clash and Final Outcome
 
+### Chiefs vs. Crusaders
+
+<div>
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/5fa75d73-a071-42ae-879d-9c1da371cfb4" alt="Plot 1" width="400"/>
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/3cd7f133-e503-4c47-9f98-9b4eda386835" 
+    alt="Plot 2" width="400"/>
+</div>
+
+### SF Pairings Head-to-Head Clash and Final Outcome
+
 ### Chiefs vs. Brumbies
 
 <div>
